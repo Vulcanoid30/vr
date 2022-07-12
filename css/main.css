@@ -1,0 +1,77 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-size: small;
+}
+
+.nav-link :hover {
+  border-bottom: 100px solid black;
+}
+
+.jumbotron {
+  margin-left: 8em;
+}
+
+.jumbotron h1 {
+  margin-top: 3em;
+  font-weight: bold;
+}
+
+.jumbotron img {
+  width: 170px;
+  height: 170px;
+  float: right;
+  border-radius: 50%;
+  margin-right: 10em;
+}
+
+#card {
+  background-color: #bae1fd;
+}
+
+#card h5 {
+  font-weight: bold;
+}
+
+span {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.view {
+  float: right;
+  text-decoration: none;
+  margin-left: 3em;
+}
+
+#work {
+  margin-left: 10em;
+}
+
+#work .work {
+  width: 200px;
+}
+
+#work ul li {
+  list-style-type: none;
+  float: left;
+  font-size: 15px;
+}
+
+#work hr {
+  width: 70%;
+  margin-left: 0.8em;
+}
+
+#footer .icon {
+  margin-left: 35em;
+  padding-bottom: 0.9em;
+}
+
+#footer p {
+  font-size: small;
+  margin-left: 41em;
+}
